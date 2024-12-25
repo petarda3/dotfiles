@@ -1,0 +1,6 @@
+[legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9]
+default-size-columns=100
+default-size-rows=25
+font='Monospace 14'
+use-system-font=false
+visible-name='petarda'
